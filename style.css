@@ -1,0 +1,11 @@
+div{
+	background-color:gray;
+	color:black;
+}
+.container {
+	margin:0 auto;
+	width:80%;
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 10px;
+}
